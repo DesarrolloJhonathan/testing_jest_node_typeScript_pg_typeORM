@@ -1,0 +1,7 @@
+export const enum STATUSID {
+    NO_E_MAILED = 1,
+    NOT_APPROVED_CONSENT = 2,
+    SURVEY_CAN_BE_STARTED = 3,
+    SURVEY_COMPLETED = 4,
+    INVALID_EMAIL = 5,
+}
